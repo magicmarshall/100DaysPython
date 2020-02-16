@@ -1,8 +1,8 @@
 # Day 1: Installing Python
 **Completion Date:** 
-
+2/16/20
 **Learned:** 
-
+Learned "print"
 # Day 2: Printing in Python
 **Completion Date:** 
 
