@@ -5,9 +5,9 @@
 Learned "print"
 # Day 2: Printing in Python
 **Completion Date:** 
-
+2/17/20
 **Learned:** 
-
+Not 100% sure? Formatting?
 # Day 3: Operators
 **Completion Date:** 
 
