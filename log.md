@@ -10,9 +10,9 @@ Learned "print"
 Not 100% sure? Formatting?
 # Day 3: Operators
 **Completion Date:** 
-
+2/18/20
 **Learned:** 
-
+Capitalization matters
 # Day 4: Variables & Variable Types
 **Completion Date:** 
 
