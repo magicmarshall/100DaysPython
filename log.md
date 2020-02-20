@@ -15,9 +15,9 @@ Not 100% sure? Formatting?
 Capitalization matters
 # Day 4: Variables & Variable Types
 **Completion Date:** 
-
+2/19/20
 **Learned:** 
-
+Setting values
 # Day 5: String Formatting
 **Completion Date:** 
 
